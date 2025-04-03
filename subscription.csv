@@ -1,0 +1,5 @@
+customer_id,marketplace,event_date,event,subscription_period_months
+1,India,2020-01-05,S.,6
+1,India,2020-12-05,R.,1
+1,India,2021-02-05,C.,Null
+
